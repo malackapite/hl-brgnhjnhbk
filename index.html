@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="main.js" type="module"></script>
+    <style>
+        .row-cols-4>*{
+            width: calc(25% - 4px);
+        }
+    </style>
+</head>
+<body>
+    <div class="row-cols-4">
+        <input type="checkbox" class="btn-check" id="sr" autocomplete="off">
+        <label class="btn btn-outline-success" for="sr">SRelampago</label>
+        <input type="checkbox" class="btn-check" id="ba" autocomplete="off">
+        <label class="btn btn-outline-primary" for="ba">BAAIIMM-NL</label>
+        <input type="checkbox" class="btn-check" id="be" autocomplete="off">
+        <label class="btn btn-outline-danger" for="be">Beter Griffin</label>
+        <input type="checkbox" class="btn-check" id="bo" autocomplete="off">
+        <label class="btn btn-outline-warning" for="bo">Boro Manevar</label>
+    </div>
+    <table class="table"></table>
+</body>
+</html>

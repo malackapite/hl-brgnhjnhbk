@@ -1,9 +1,6 @@
 Short Fuse
 On day 3 of the Rats job, get away with 7 bags without defusing any bombs.
 
-Guessing Game
-On day 2 of the Firestarter job, complete the heist in stealth without hacking the computer.
-
 King of the Hill
 In the Park escape, ensure that no law enforcement enters the park before the escape van arrives.
 
@@ -31,9 +28,6 @@ While wearing the "42nd" mask, trade 7 civilians.
 Fool Me Once, Shame on -Shame on You. Fool Me - You Can't Get Fooled Again
 While wearing the "43rd" mask, kill 95 Shields using the Swedish K submachine gun.
 
-Reindeer Games
-Complete a heist while you and your four man crew are wearing one different Christmas soundtrack or community "Santa" mask each.
-
 Doctor Miserable
 On day 2 of the Big Oil job, complete the heist with the last engine being correct on the OVERKILL difficulty or above.
 
@@ -54,9 +48,6 @@ In the Shadow Raid job, secure at least 6 bags of loot and escape without killin
 
 Backing Bobblehead Bob
 Bring Bobblehead Bob to the vault. Unlocks "The 18th" mask, the "Gemstone" material, the "God of War" pattern and the "Wooden Stock" for the Falcon rifle.
-
-Entrapment
-In the Big Bank job, complete the heist with 12 bags in the default escape with all the lasers active. Unlocks the "CQB Foregrip" for the Falcon rifle.
 
 Funding Father
 Complete any heist while you and your four man crew are wearing one different "Big Bank" mask each. Unlocks the "Marksman Stock" for the Falcon rifle.
@@ -81,18 +72,6 @@ Complete the Hotline Miami job on the Death Wish difficulty or above.
 
 Death From Below
 Kill 25 enemies as they rappel using the Nagant sniper rifle. Unlocks the "Constable" mask, the "Silenced Barrel" and the "Long Barrel" for the Nagant sniper rifle, "Gunsmoke" material and "Dazzle" pattern.
-
-Wind of Change
-In the Hoxton Breakout job, complete the heist while you and your four man crew are wearing one different "Historical" mask each on the OVERKILL difficulty or above. Unlocks the "Discreet Stock" and "Short Barrel" for the Nagant sniper rifle, "Precision Barrel" for the Broomstick pistol, "Extended Mag" and "Long Barrel" for the Patchett L2A1 submachine gun and the "Heatsinked Suppressed Barrel" for the Buzzsaw 42 light machine gun.
-
-Impossible, It Can't Be. Is It?
-In the White Xmas job, secure the rare Almir's Toast.
-
-Honor Among Thieves
-In The Diamond job, complete the heist while you and your four man crew are wearing one different "Diamond Heist" mask each on the OVERKILL difficulty or above.
-
-Diamonds in the Rough
-In The Diamond job, complete the heist, diamond puzzle and steal the Diamond after the alarm has been triggered on the OVERKILL difficulty or above. Unlocks the "Anubis" mask, "Mummy Bandages" material and "Hawk Helm" pattern.
 
 Tabula Rasa
 In the Hoxton Breakout job, complete the heist on the OVERKILL difficulty or above with each crew member using no skills, wearing suits, wielding Golden AK.762 rifles and Chicago Typewriter submachine guns. Unlocks a new skill slot.
@@ -148,9 +127,6 @@ In the Firestarter job, complete day 3 with you and your crew staying inside the
 Not Invited
 Kill 10 enemies within 10 seconds using the Piglet Grenade Launcher without using Incendiary rounds. Unlocks the "Firefighter's Helmet" mask, "Burn" material and "Flamer" pattern.
 
-Sound of Silence
-Complete The Alesso Heist without your crew killing anyone. Unlocks the "Boom Box" mask, "Enlightenment" material and "Alesso Logo" pattern.
-
 Fuck It, We're Walking
 In The Alesso Heist, complete the heist in loud without using the zip-line or bag chutes on the OVERKILL difficulty or above. Unlocks the "Female Concert Goer" mask, "Stained Glass" material and "Soundwave" pattern.
 
@@ -169,9 +145,6 @@ Complete a single day of a heist in stealth using only the Shuriken throwable an
 Fugu Fighter
 Have at least 3 enemies poisoned at the same time with your poisoned weapons. Unlocks the "Shirai" mask, "Origami" material and "Hanabi" pattern.
 
-Heisters of the Round Table
-Complete any heist on the OVERKILL difficulty or above with 4 players using only Gage Chivalry Pack masks, primary weapons, melee weapons and Ballistic Vests or heavier armors. Unlocks the "Agatha Knight Veteran" mask, "Bloodied" material and "Agatha" pattern.
-
 Their Armor Is Thick and Their Shields Broad
 Kill 10 shields with a Gage Chivalry Pack melee weapon in a single heist. Unlocks the "Agatha Vanguard Veteran" mask, "Chain Armor" material and "Medieval" pattern.
 
@@ -186,9 +159,6 @@ Complete the First World Bank job with 6 or more hostages alive behind the wall 
 
 Original Heisters
 Complete the First World Bank job on the OVERKILL difficulty or above using the PAYDAY: The Heist crew, Reinfeld Shotguns, and Bernetti 9 Pistols.
-
-Cloaker Fear
-Complete the First World Bank job on the OVERKILL difficulty or above by securing all additional money bags while not using the loot vent bag shortcut for the additional money bags.
 
 OVERDRILL
 In the First World Bank job, solve the PAYDAY: The Heist secret on the Death Wish difficulty or above and enter the OVERVAULT.
@@ -214,12 +184,6 @@ In the Beneath the Mountain job, open the 4 vaults that contain loot within 10 m
 No Blood on the Carpet
 In the Birth of Sky job, release the money without having any player take health damage on the OVERKILL difficulty or above. Unlocks the "Oro" mask, "Glade" material and "Tribal Wave" pattern.
 
-1... 2... 3... JUMP!
-In the Birth of Sky job, have the entire crew jump out of the airplane within 1 minute and 23 seconds on the OVERKILL difficulty or above. Unlocks the "Maui" mask, "Wade" material and "Ornamental Crown" pattern.
-
-Black Tie Event
-Complete the Birth of Sky job, have the entire crew use only pistols and Two Piece Suits on the OVERKILL difficulty or above.
-
 Santa Slays Slackers
 In the Santa's Workshop job, keep all the elves alive for 30 minutes after the first assault starts on the OVERKILL difficulty or above.
 
@@ -235,26 +199,8 @@ In the Santa's Workshop job, secure 10 bags of loot without using any player equ
 We Do It Live!
 Complete the Framing Frame job on the OVERKILL difficulty or above with each crew member using no skills, wearing suits, wielding Platypus 70 sniper rifles and Judge shotguns.
 
-Goat In 60 Seconds
-In the first day of the Goat Simulator job, secure 6 goats in the escape truck within 1 minute of it arriving. Unlocks the "Scout Goat" mask, "Goat Eye" material and "Giraffe" pattern.
-
-Hazzard County
-Complete day 2 of the Goat Simulator job within 4 minutes from when the escape car is available. Unlocks the "Goat Goat" mask, "Flamingo Eye" material and "Illumigoati" pattern.
-
-BAAaa...*BANG*...aaAAH
-In the Goat Simulator job, throw a goat in the air, kill one enemy and catch the goat before it lands. Unlocks the "Mastermind Goat" mask, "Hay" material and "Goat Face" pattern.
-
-Farmer Miserable
-In day 2 of the Goat Simulator job, send all goats in separate cages on the OVERKILL difficulty or above. Unlocks the "Slick Goat" mask, "Tongue" material and "Fur" pattern.
-
-Dr. Evil
-On the Counterfeit job, print and secure $1,000,000 worth of counterfeit money in the Helicopter. Unlocks the "Viking" mask, "Houndstooth" material and "Fenris" pattern.
-
 Cutting the Red Wire
 On the Counterfeit job, disarm the C4 on the OVERKILL difficulty or above. Unlocks the "Dragon Head" mask, "Days" material and "Kurbits" pattern.
-
-Basement Dwellers
-On the Counterfeit job, don't let the cops enter the printing room until the safe is opened on the OVERKILL difficulty or above.
 
 Keep Clear of the Windows
 Complete the Undercover job without killing any Snipers. Unlocks the "Hans" mask, "Red Black" material and "Luse" pattern.
@@ -391,15 +337,6 @@ Complete the Firestarter job on the OVERKILL difficulty or above with your crew 
 Haunted House of Heisters
 Complete the Prison Nightmare job on the Death Sentence difficulty with the One Down mechanic activated.
 
-Salem Asylum
-On the Prison Nightmare job, get on the train in less than 4 min and 44 sec on the Mayhem difficulty or above. You have to have played the heist from the start. Unlocks the "Risen Wolf" mask.
-
-A Long Night of Horrors
-Complete the Prison Nightmare job, getting at least 15 keycards on the Mayhem difficulty or above without any player ever going into custody. Unlocks the "Risen Chains" mask.
-
-He's Got Experience
-Complete the Prison Nightmare job on the Hard difficulty or above by having 1 player playing as Hoxton, all having Nova's Shank melee weapon equipped, and are only allowed to kill enemies using Nova's Shank. Unlocks the "Risen Houston" mask.
-
 Let Them Fly
 Kill 50 Snipers with the Arbiter Grenade Launcher while using the standard ammo type.
 
@@ -421,20 +358,11 @@ On the Stealing Xmas job, escape the heist while keeping at least 10 zip-tied ci
 Say Hello to My Big Friend
 On the Scarface Mansion job, kill the boss with the Commando 101 Rocket Launcher on the OVERKILL difficulty and above. Unlocks the "Panthera Tigris" mask, "Black Marble" material and "Diablada" pattern.
 
-Fierce Protection
-Complete the Brooklyn 10-10 job on the Mayhem difficulty or above.
-
 Vengeful Rain
 Complete the Brooklyn 10-10 job on the Death Wish difficulty or above.
 
 Valkyries
 Complete the Brooklyn 10-10 job on the Death Sentence difficulty with the One Down mechanic activated.
-
-Apartment Sniper
-Complete the Brooklyn 10-10 job from start, by having all team members using Sniper Rifles and the OVE9000 saws on the OVERKILL difficulty or above.
-
-A Rendezvous With Destiny
-On the Brooklyn 10-10 job, reach Charon within 6 minutes on the OVERKILL difficulty or above. Unlocks the "Lady Liberty" mask, "Underground Neon" material and "Baba Yaga" pattern.
 
 Pass the Ammo
 Complete the Brooklyn 10-10 job from start, after deploying 8 ammo bags in the ammo cage on the OVERKILL difficulty or above. Unlocks the "Bird of Prey" mask, "Carbon Fiber Weave" material and "Hood Stripes" pattern.
@@ -523,9 +451,6 @@ Complete The Bomb: Dockyard job on the OVERKILL difficulty or above.
 145+ Down
 Complete all Classic contracts on the Death Sentence difficulty with the One Down mechanic activated.
 
-Noise Complaint
-Complete all of The Continental's contracts on the Mayhem difficulty or above.
-
 Baba Yaga
 Complete all of The Continental's contracts on the Death Wish difficulty or above.
 
@@ -564,12 +489,6 @@ On the Reservoir Dogs job, kill 92 special enemies with the Alabama Razor on the
 
 Brooklyn Battle
 Complete the Brooklyn Bank job on the Death Sentence difficulty with the One Down mechanic activated.
-
-Obsessive Opening
-On the Brooklyn Bank Job open at least 30 deposit boxes and all 3 ATMs on the OVERKILL difficulty or above. Unlocks the "Felis Lynx" mask and the "Ursus Maritimus" mask.
-
-Animal Kingdom
-On the Brooklyn Bank job, complete the heist while you and your four man crew are wearing one different Brooklyn Bank animal mask each on the OVERKILL difficulty or above.
 
 One More Down, No More To Go
 Complete all contracts on the Death Sentence difficulty with the One Down mechanic activated. Unlocks "The One Down Skull" mask.
@@ -685,17 +604,11 @@ In the Big Bank job, open the vault by using the "Beast" drill and escape using 
 I Feel Like Robin Hood!
 Complete the Undercover job with every crew member using only a bow without any modifications on the OVERKILL difficulty or above.
 
-A Junkyard Full Of Junkies
-On day 1 of the Big Oil job, kill all of the bikers within 1 minute of the heist starting.
-
 Watch The Power Switch!
 On day 2 of the Hoxton Breakout job, don't let the cops turn off the power while Hoxton is in the server room on the OVERKILL difficulty or above.
 
 Global Warming
 Complete the Alaskan Deal job with all crew members using only Flamethrowers.
-
-Expert Landing
-In the Birth of Sky job, have all players land on the roof of any building, car or other structure and together get 200 kills before ever touching the ground on the Death Wish difficulty or above.
 
 Drive By
 Kill 10 enemies while in the passenger seat of a vehicle.
@@ -730,9 +643,6 @@ Complete the Shacklethorne Auction job on the Death Sentence difficulty with the
 The Auction Cry
 Complete the Shacklethorne Auction job in stealth within 5 minutes on the OVERKILL difficulty or above.
 
-Heavy Metal
-In the Shacklethorne Auction job, use the metal detectors to find a civilian that is carrying something heavy. Unlocks the "Monkey Wrench" melee weapon.
-
 Last Meal
 Complete the Hell's Island job on the Death Sentence difficulty with the One Down mechanic activated.
 
@@ -759,9 +669,6 @@ Complete The White House job while wearing any presidential mask on the OVERKILL
 
 Hack This!
 In the Henry's Rock job, destroy the security turrets instead of shutting them down on the OVERKILL difficulty or above.
-
-Settling a Scar
-Complete the Scarface Mansion job within 15 minutes in loud on the OVERKILL difficulty and above.
 
 Out Of Bounds
 On day 2 of the Watchdogs job, secure 12 bags without letting any law enforcer enter the warehouse on the OVERKILL difficulty or above.
@@ -931,9 +838,6 @@ In the Ukrainian Prisoner job, find and destroy all dragon vases.
 This Calls for a Round of Sputniks!
 In the Ukrainian Prisoner job, kill at least 100 enemies with a sniper rifle and complete the level with 100% or higher accuracy on the OVERKILL difficulty or above.
 
-Cloaker Charmer
-Complete the Prison Nightmare job on the Very Hard difficulty or above, while wearing "PNV BriteNite" mask and kill at least one Cloaker. Unlocks the "Cloaker Mascot" Weapon Charm.
-
 Land Lubber Pickpocket
 Complete the Black Cat job on the Normal difficulty or above.
 
@@ -969,9 +873,6 @@ In the Black Cat job on the OVERKILL difficulty or above, find and open Xun Kang
 
 One Claw Beam Cutter
 In the Black Cat job on the OVERKILL difficulty or above, complete the heist in loud having used only one saw at the time to cut the vault beams.
-
-Bloody Grinch
-Complete the Breakin' Feds heist or the Buluc's Mansion heist on the Mayhem difficulty or above in stealth and everyone on your crew dressed in Christmas outfits and masks, without using any pagers. Because nobody has ever seen Santa. Unlocks the "Lightbringer" Weapon Charm.
 
 Gift Giver
 Get 75 kills with any non-explosive throwable weapon. Unlocks the "Bulbous Bauble" Weapon Charm.

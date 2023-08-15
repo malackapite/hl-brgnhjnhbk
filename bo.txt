@@ -1,11 +1,5 @@
-Caribbean Pirate
-On day 2 of the Rats job, bring additional meth bags to the trade but steal your payment instead.
-
 Painting Yourself Into a Corner
 On day 1 of the Framing Frame job, steal all sold paintings without being seen.
-
-I Wasn't Even There!
-On day 3 of the Framing Frame job, send the gold by zip-line without ever tripping the alarm.
 
 I Knew What I Did Was Wrong
 On day 1 of the Big Oil job, enter the basement, open the ATM machines and take the loot.
@@ -13,17 +7,8 @@ On day 1 of the Big Oil job, enter the basement, open the ATM machines and take 
 Doctor Fantastic
 On day 2 of the Big Oil job, complete the heist with the first engine being correct.
 
-Guessing Game
-On day 2 of the Firestarter job, complete the heist in stealth without hacking the computer.
-
 King of the Hill
 In the Park escape, ensure that no law enforcement enters the park before the escape van arrives.
-
-You Shall Not Pass!
-In the Overpass escape, don't let the cops set foot on the bridge before you can escape.
-
-I Am the One Who Knocks
-On day 1 of the Rats job, cook 3 bags worth of meth without letting any law enforcer enter the house.
 
 Afraid of the Dark
 On day 3 of the Framing Frame job, while doing plan B, don't let law enforcers pull the power.
@@ -61,9 +46,6 @@ In the Safe House Nightmare job find the correct baby mask on the OVERKILL diffi
 We're Gonna Need a Bigger Boat
 On the Transport: Train Heist, steal and secure 20 bags worth of ammo.
 
-But Wait - There's More!
-On any Armored Transport heist, find the plans for the Train Heist.
-
 If You Liked It You Should Have Put a Ring on It
 Complete any Armored Transport heist, Having Secured at Least 9 Bags of Gold.
 
@@ -72,7 +54,6 @@ While wearing the "Hockey Heat" mask, complete any Armored Transport heist 15 ti
 
 License to Kill
 Kill 378 enemies using the Gruber Kurz handgun.
- 0 / 378
 
 Let Them Watch
 Complete the Transport: Train Heist without any of your crew members killing any enemy snipers.
@@ -109,9 +90,6 @@ Fill up 72 weapon slots.
 
 Upside Down
 In the GO Bank job, leave a mark on the bank logo.
-
-Reindeer Games
-Complete a heist while you and your four man crew are wearing one different Christmas soundtrack or community "Santa" mask each.
 
 Becoming Vicious
 Reach the fifth rank of Infamy.
@@ -166,15 +144,6 @@ Complete all contracts on the Death Wish difficulty or above. Unlocks "The Death
 
 Ghost Riders
 Complete a heist while you and your four man crew are wearing one different difficulty mask each.
-
-Eagle Eyes
-Collect 20 packages with the blue eagle stamp on to earn a blue crate.
-
-Like A Boy Killing Snakes
-Collect 25 packages with the purple snake stamp to earn a purple crate.
-
-There and Back Again
-Earn one of each crate.
 
 High Speed, Low Drag
 Modify the CAR-4 rifle with a Competition Foregrip, CAR Quadstacked Mag, and a Competitor's Compensator.
@@ -277,9 +246,6 @@ In the Hotline Miami job, complete the heist while you and your four man crew ar
 
 Phew!
 On day 2 of the Hotline Miami job, save someone in need. Unlocks the "Aubrey" mask, "Ergo Grip", "Extended Mag" and "Unfolded Stock" for the Cobra submachine gun, "Sunset" material and "Doodles" pattern.
-
-Cavity
-Hurt an enemy using the Nova's Shank melee weapon.
 
 Sixth Nightmare
 Complete the Safe House Nightmare job on the Death Wish difficulty or above.
@@ -425,9 +391,6 @@ In the Shadow Raid job, complete the heist in stealth while having the Vulcan Mi
 Oh, That's How You Do It
 Fire the Vulcan Minigun for 25 seconds without reloading or letting go of the trigger.
 
-We Are Rockstars On This Job
-Complete the Watchdogs job with each crew member using no skills, wielding the AMCAR Rifle and Chimano 88 Pistol on the OVERKILL difficulty or above.
-
 House Keeping
 In the Big Oil job, complete day 1 in stealth on the OVERKILL difficulty or above.
 
@@ -437,14 +400,8 @@ Complete the Big Oil job, with at least one other player, all using suits and Ak
 Tag, You're It!
 In the Car Shop job, be the first player in a four-man crew to reach the docks.
 
-Recycling
-Pick up 100 arrows. Unlocks the "Desert Skull" mask, "Western Sunset" material and "Mystical" pattern.
-
 The Nobel Prize
 Kill 3 enemies at the same time with the Dynamite. Unlocks the "Wild West Classic" mask, "Cactus" material and "Coyote" pattern.
-
-Hedgehog
-Get 10 or more arrows stuck in a Bulldozer at the same time. Unlocks the "Lone Heister" mask, "Scorpion" material and "Totem" pattern.
 
 Fastest Gun in the West
 Kill 6 law enforcers within 6 seconds of killing the first while hipfiring with the Peacemaker .45 Revolver. Unlocks the "Apache Mystic" mask, "Gold Fever" material and "Sacred" pattern.
@@ -460,9 +417,6 @@ In the Meltdown job, complete the heist without using the "Longfellow".
 
 We Built This City on Electric Progressive House Music
 Complete The Alesso Heist on the Death Wish difficulty or above.
-
-Sound of Silence
-Complete The Alesso Heist without your crew killing anyone. Unlocks the "Boom Box" mask, "Enlightenment" material and "Alesso Logo" pattern.
 
 Even Steven
 In The Alesso Heist, get your seven bucks back. Unlocks the "Cantus" mask, "Bionic" material and "Circle Raster" pattern.
@@ -493,9 +447,6 @@ Kill 100 enemies in a single day of a heist with the Kross Vertex Submachine Gun
 
 Shuriken Shenanigans
 Complete a single day of a heist in stealth using only the Shuriken throwable and killing at least 4 enemies. Unlocks the "Kuro Zukin" mask, "Bamboo" material and "Koi" pattern.
-
-Fugu Fighter
-Have at least 3 enemies poisoned at the same time with your poisoned weapons. Unlocks the "Shirai" mask, "Origami" material and "Hanabi" pattern.
 
 Heisters of the Round Table
 Complete any heist on the OVERKILL difficulty or above with 4 players using only Gage Chivalry Pack masks, primary weapons, melee weapons and Ballistic Vests or heavier armors. Unlocks the "Agatha Knight Veteran" mask, "Bloodied" material and "Agatha" pattern.
@@ -554,15 +505,6 @@ In the Beneath the Mountain job, open the 4 vaults that contain loot within 10 m
 Juggernauts
 Complete the Beneath the Mountain job on the OVERKILL difficulty or above without any player going down.
 
-Pinpoint Landing
-In the Birth of Sky job, parachute into the diner through a hole in the roof.
-
-No Blood on the Carpet
-In the Birth of Sky job, release the money without having any player take health damage on the OVERKILL difficulty or above. Unlocks the "Oro" mask, "Glade" material and "Tribal Wave" pattern.
-
-Black Tie Event
-Complete the Birth of Sky job, have the entire crew use only pistols and Two Piece Suits on the OVERKILL difficulty or above.
-
 On the Seventh Try on Death Wish, My True Bain Gave to Me
 Complete the Santa's Workshop job on the Death Wish difficulty or above.
 
@@ -574,9 +516,6 @@ Complete the Goat Simulator job on the Death Wish difficulty or above.
 
 Farmer Miserable
 In day 2 of the Goat Simulator job, send all goats in separate cages on the OVERKILL difficulty or above. Unlocks the "Slick Goat" mask, "Tongue" material and "Fur" pattern.
-
-Crowd Control
-On the Counterfeit job, have all civilians as hostages until the safe is opened.
 
 In for a Dime, in for a Dollar
 Complete the Undercover job on the Death Wish difficulty or above.
@@ -611,9 +550,6 @@ Have all four players using a fully unlocked Maniac perk deck and have an averag
 High Times
 In The Bomb: Dockyard job, cook 2 bags of meth and secure them.
 
-Mellon
-In the Birth of Sky job, find all 9 rings.
-
 Kiss the Chef
 In the Cook Off job, cook 25 bags of meth on the OVERKILL difficulty or above.
 
@@ -640,9 +576,6 @@ Complete The Alesso Heist on the Mayhem difficulty or above.
 
 Dance Dance GenSec
 Complete The Alesso Heist on the Death Sentence difficulty with the One Down mechanic activated.
-
-Blood is Thicker Than Murkywater
-Complete the Beneath the Mountain job on the Mayhem difficulty or above.
 
 Not Radical Enough For You?
 Complete the Beneath the Mountain job on the Death Sentence difficulty with the One Down mechanic activated.
@@ -793,7 +726,6 @@ Complete Panic Room on any difficulty with a total crew hit accuracy above 200%
 
 Nothing Personal
 Kill 30 snipers with the Desertfox Sniper Rifle on the OVERKILL difficulty or above. Unlocks the "Mustang" mask, "Tire" material and "One Shot" pattern.
- 0 / 30
 
 Crouched and Hidden, Flying Dagger
 Kill 8 guards with the Throwing Knife while crouching on the Murky Station job. The heist must be completed for any kills to count. Unlocks the "Hotelier" mask, "Club Lights" material and "Piety" pattern.
@@ -809,15 +741,6 @@ Complete the Prison Nightmare job on the Death Wish difficulty or above.
 
 Haunted House of Heisters
 Complete the Prison Nightmare job on the Death Sentence difficulty with the One Down mechanic activated.
-
-Salem Asylum
-On the Prison Nightmare job, get on the train in less than 4 min and 44 sec on the Mayhem difficulty or above. You have to have played the heist from the start. Unlocks the "Risen Wolf" mask.
-
-A Long Night of Horrors
-Complete the Prison Nightmare job, getting at least 15 keycards on the Mayhem difficulty or above without any player ever going into custody. Unlocks the "Risen Chains" mask.
-
-He's Got Experience
-Complete the Prison Nightmare job on the Hard difficulty or above by having 1 player playing as Hoxton, all having Nova's Shank melee weapon equipped, and are only allowed to kill enemies using Nova's Shank. Unlocks the "Risen Houston" mask.
 
 Ducking Awesome
 Get 3 headshot kills with 1 shot from any Shotgun using the Donald's Horizontal Leveller barrel ext.
@@ -860,9 +783,6 @@ Complete the Scarface Mansion job in stealth in 13 minutes or less on the Mayhem
 
 Apartment Sniper
 Complete the Brooklyn 10-10 job from start, by having all team members using Sniper Rifles and the OVE9000 saws on the OVERKILL difficulty or above.
-
-A Rendezvous With Destiny
-On the Brooklyn 10-10 job, reach Charon within 6 minutes on the OVERKILL difficulty or above. Unlocks the "Lady Liberty" mask, "Underground Neon" material and "Baba Yaga" pattern.
 
 Pass the Ammo
 Complete the Brooklyn 10-10 job from start, after deploying 8 ammo bags in the ammo cage on the OVERKILL difficulty or above. Unlocks the "Bird of Prey" mask, "Carbon Fiber Weave" material and "Hood Stripes" pattern.
@@ -947,18 +867,6 @@ Complete all of Locke's contracts on the Death Wish difficulty or above.
 
 Completed, Fo' Sho'
 Complete all of Locke's contracts on the Death Sentence difficulty with the One Down mechanic activated.
-
-Mountain Climbers
-Complete the Beneath the Mountain job on the Normal difficulty or above.
-
-Priceless Relic Collector
-Complete the Beneath the Mountain job on the Hard difficulty or above.
-
-Moles With Guns
-Complete the Beneath the Mountain job on the Very Hard difficulty or above.
-
-Destruction From Within
-Complete the Beneath the Mountain job on the OVERKILL difficulty or above.
 
 There Was Room For Two
 In the Alaskan Deal job shoot the SWAT that is hanging on to the door out in the water.
@@ -1125,12 +1033,6 @@ Complete all of Bain's contracts on the Very Hard difficulty or above.
 We've Become the Bain of their Existence!
 Complete all of Bain's contracts on the OVERKILL difficulty or above.
 
-All Your Bass Are Belong to Us
-Complete the Alesso Heist on the Normal difficulty or above.
-
-The Show Must Go On
-Complete The Alesso Heist on the Hard difficulty or above.
-
 Eat, Sleep, Heist, Repeat
 Complete The Alesso Heist on the Very Hard difficulty or above.
 
@@ -1203,17 +1105,8 @@ Complete the Transport: Underpass job on the OVERKILL difficulty or above.
 A Hard Won Price
 Complete the Diamond Heist on the Death Sentence difficulty with the One Down mechanic activated.
 
-United We Heist
-Complete the Reservoir Dogs job on the OVERKILL difficulty or above using only the Union 5.56 Rifle.
-
-Get Off My Property
-On day 2 of the Reservoir Dogs job, keep the law enforcers from entering the warehouse until Twitch arrives with the escape van.
-
 Pinky Swear
 On day 2 of the Reservoir Dogs job, escort Mr. Pink back to the warehouse within 60 seconds after rescuing him from the car on the Death Wish difficulty or above.
-
-Waste Not, Want Not
-On day 1 of the Reservoir Dogs job, loot and secure all available bags of diamonds and jewelry in the Garnet Group boutique on the OVERKILL difficulty or above.
 
 Close Shave
 On the Reservoir Dogs job, kill 92 special enemies with the Alabama Razor on the OVERKILL difficulty or above.
@@ -1226,12 +1119,6 @@ Complete the Brooklyn Bank job on the Death Wish difficulty or above.
 
 Brooklyn Battle
 Complete the Brooklyn Bank job on the Death Sentence difficulty with the One Down mechanic activated.
-
-Obsessive Opening
-On the Brooklyn Bank Job open at least 30 deposit boxes and all 3 ATMs on the OVERKILL difficulty or above. Unlocks the "Felis Lynx" mask and the "Ursus Maritimus" mask.
-
-Animal Kingdom
-On the Brooklyn Bank job, complete the heist while you and your four man crew are wearing one different Brooklyn Bank animal mask each on the OVERKILL difficulty or above.
 
 One More Down, No More To Go
 Complete all contracts on the Death Sentence difficulty with the One Down mechanic activated. Unlocks "The One Down Skull" mask.
@@ -1395,17 +1282,11 @@ Destroy 30 Flashbangs before they detonate.
 I Will Succeed With Dignity
 In the Shadow Raid job, complete the heist without using any pre-planning favors on the OVERKILL difficulty or above.
 
-Just Shut up and Take My Money!
-On day 1 of the Reservoir Dogs job, hit the cashier in the Garnet Group boutique with the Money Bundle melee weapon.
-
 Golden Grin Anonymous
 Spend at least a $1,000,000,000 in the Offshore Payday.
 
 Quick Draw
 In the Panic Room job, kill all gangsters within 60 seconds after masking up on the OVERKILL difficulty or above.
-
-Silver Tongue
-On day 1 of the Reservoir Dogs job, convert the cashier in the Garnet Group boutique to fight for you.
 
 I'm Sure No One Heard That
 On the Ukrainian Job, complete the heist in stealth after triggering the alarm with the metal detectors.
@@ -1443,44 +1324,8 @@ Complete the Alaskan Deal job with all crew members using only Flamethrowers.
 WULULULULU--BZZZT!!!
 Stop a charging Cloaker with either the Buzzer or Electrical Brass Knuckles melee weapons.
 
-Drive By
-Kill 10 enemies while in the passenger seat of a vehicle.
-
 A Tazed of Your Own Medicine
 Kill a Taser with either the Buzzer or Electrical Brass Knuckles melee weapons.
-
-Donut Run
-Complete the Breakin' Feds job on the Normal difficulty or above.
-
-Cordial Infiltration
-Complete the Breakin' Feds job on the Hard difficulty or above.
-
-Breaking Protocol
-Complete the Breakin' Feds job on the Very Hard difficulty or above.
-
-Sticking it to the Commissioner
-Complete the Breakin' Feds job on the OVERKILL difficulty or above.
-
-Don't Wake the Feds
-Complete the Breakin' Feds job on the Mayhem difficulty or above.
-
-Crimes and Misdemeanors
-Complete the Breakin' Feds job on the Death Wish difficulty or above.
-
-The Fall of Solomon
-Complete the Breakin' Feds job on the Death Sentence difficulty.
-
-Garrett's Foil
-Complete the Breakin' Feds job on the Death Sentence difficulty with the One Down mechanic activated.
-
-A Moment of Silence
-In the Breakin' Feds job, don't alert or kill any guards until Commissioner Garrett used the toilet on the OVERKILL difficulty or above.
-
-Stalker
-In the Breakin' Feds job, have Commissioner Garrett marked at all time after he left his office, until you have opened his safe.
-
-Staple Relationship
-In the Breakin' Feds job, find, rescue and return the stapler to the small office.
 
 Sand in Your Shoes
 Complete the Henry's Rock job on the Normal difficulty or above.
@@ -1515,32 +1360,8 @@ You found something really weird.
 Boom, Headshot!
 In the Henry's Rock job, headshot all five test mannequins in the Weapons Lab using a Pistol and/or Akimbo Pistols within 3 seconds.
 
-Shipwreck Survivor
-Complete the Shacklethorne Auction job on the Very Hard difficulty or above.
-
-Salem's Lot
-Complete the Shacklethorne Auction job on the OVERKILL difficulty or above.
-
-Hey, you guys!
-Complete the Shacklethorne Auction job on the Mayhem difficulty or above.
-
-Even Death May Die
-Complete the Shacklethorne Auction job on the Death Wish difficulty or above.
-
-Never Say Die
-Complete the Shacklethorne Auction job on the Death Sentence difficulty.
-
-Going once...
-Complete the Shacklethorne Auction job on the Death Sentence difficulty with the One Down mechanic activated.
-
 The Auction Cry
 Complete the Shacklethorne Auction job in stealth within 5 minutes on the OVERKILL difficulty or above.
-
-Press [F] to Pay Respects
-Press [F] to pay respects.
-
-Heavy Metal
-In the Shacklethorne Auction job, use the metal detectors to find a civilian that is carrying something heavy. Unlocks the "Monkey Wrench" melee weapon.
 
 Call from the Mayor
 Complete the Hell's Island job on the Death Sentence difficulty.
@@ -1905,9 +1726,6 @@ In the Black Cat job on the OVERKILL difficulty or above, find and open Xun Kang
 One Claw Beam Cutter
 In the Black Cat job on the OVERKILL difficulty or above, complete the heist in loud having used only one saw at the time to cut the vault beams.
 
-Bloody Grinch
-Complete the Breakin' Feds heist or the Buluc's Mansion heist on the Mayhem difficulty or above in stealth and everyone on your crew dressed in Christmas outfits and masks, without using any pagers. Because nobody has ever seen Santa. Unlocks the "Lightbringer" Weapon Charm.
-
 The Door Was Open
 Complete the Mountain Master job on the Normal difficulty or above.
 
@@ -1943,9 +1761,6 @@ Collect and secure the tea sets from all heists in the City of Gold campaign. Un
 
 No Gnome Left Behind
 In the Mountain Master job on the Very Hard difficulty or above, find someone in need of a lift, and help him to the helicopter, while playing in loud.
-
-Plague Doctor
-Kill 200 enemies using poison on the OVERKILL difficulty or above, while wearing the Scrubs outfit. Unlocks the "Viper Grenade" throwable.
 
 Welcome to Texas
 Complete the Midland Ranch job on the Normal difficulty or above.
@@ -2102,3 +1917,6 @@ In the Crude Awakening job, kill Gabriel using three oil pits at most on the OVE
 
 The Right Stuff
 In the Crude Awakening job, find the purest sample of the correct oil batch on the first try.
+
+Oops is this a leak?
+Too bad we lost the tape to patch it.

@@ -41,7 +41,7 @@ export class Player {
 
   constructor(who) {
     this.$name = who;
-    fetch(who+".txt")
+    fetch(who + ".txt")
       .then((response) => response.text())
       .then((data) => {
         this.$achievementsArray = generate(data);
@@ -62,21 +62,27 @@ function print(text) {
   for (let ix = 0; ix < text.length; ix++) {
     tmp += `<tr><td>${text[ix].name}</td><td>${text[ix].description}</td></tr>`;
   }
-  $("table").eq(0).html("<thead><tr><th>Name</th><th>Description</th></tr></thead>"+tmp+"</tbody>");
+  $("table")
+    .eq(0)
+    .html(
+      "<thead><tr><th>Name</th><th>Description</th></tr></thead>" +
+        tmp +
+        "</tbody>"
+    );
 }
 
 function search(players) {
   let tmpList = players[0].achArray.slice();
   for (let hx = 1; hx < players.length; hx++)
-    for (let ix = 0; ix < players[hx].achArray.length; ix++) {
+    for (let ix = 0; ix < tmpList.length; ) {
       let jx = 0;
       while (
-        jx < tmpList.length &&
-        players[hx].achArray[ix].name != tmpList[jx].name
+        jx < players[hx].achArray.length &&
+        players[hx].achArray[jx].name != tmpList[ix].name
       )
         jx++;
-        //console.log("ix: ", ix,"jx: ", jx);
-      if (jx >= tmpList.length) tmpList.splice(ix, 1);
+      if (jx >= players[hx].achArray.length) tmpList.splice(ix, 1);
+      else ix++;
     }
   print(tmpList);
 }
@@ -91,9 +97,9 @@ function buttonToggle(players) {
 }
 
 function load() {
-  setTimeout(() => {
-    //I hate this shit and I won't fix this shit, I've already spent 6 hours for this shit. I hate you JS <3
-  }, 1000);
+  // setTimeout(() => {
+  //   //I hate this shit and I won't fix this shit, I've already spent 6 hours for this shit. I hate you JS <3
+  // }, 1000);
 
   $(() => {
     for (let ix = 0; ix < 4; ix++) {
@@ -106,8 +112,6 @@ function load() {
   });
 }
 
-let a = new Player("sr");
-let ab = new Player("ba");
 let names = [
   new Player("sr"),
   new Player("ba"),

@@ -71,7 +71,7 @@ function print(text) {
     );
 }
 
-function search(players) {
+function filter(players) {
   let tmpList = players[0].achArray.slice();
   for (let hx = 1; hx < players.length; hx++)
     for (let ix = 0; ix < tmpList.length; ) {
@@ -84,7 +84,24 @@ function search(players) {
       if (jx >= players[hx].achArray.length) tmpList.splice(ix, 1);
       else ix++;
     }
-  print(tmpList);
+  return tmpList
+}
+
+function search(achArray) {
+  let search=$("#searchbar").val().toLowerCase()
+  console.log(search);
+  let tmpList=[]
+  for (let ix = 0; ix < achArray.length; ix++) {
+    if(achArray[ix].name.toLowerCase().search(search)!=-1 || achArray[ix].description.toLowerCase().search(search)!=-1)
+      {tmpList.push(achArray[ix])
+        //console.log(achArray[ix]);
+      }
+  }
+  return tmpList
+}
+
+function searchbar() {
+  
 }
 
 function buttonToggle(players) {
@@ -93,8 +110,9 @@ function buttonToggle(players) {
     if (!$("#" + names[ix].name).prop("checked")) names.splice(ix, 1);
     else ix++;
   }
-  search(names);
+  print(search(filter(names)));
 }
+
 
 function load() {
   // setTimeout(() => {
@@ -109,6 +127,9 @@ function load() {
           buttonToggle(names);
         });
     }
+    $("#searchbar").on("keyup",()=>{
+      buttonToggle(names);
+    })
   });
 }
 
